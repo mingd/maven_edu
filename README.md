@@ -1,4 +1,4 @@
-maven_edu
+maven实践
 =========
 
-test the maven package function
+将maven中提供的功能和插件与实际生产结合起来，这个repository用于存储各种打包方式的demo
